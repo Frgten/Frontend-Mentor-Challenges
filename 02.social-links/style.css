@@ -11,7 +11,7 @@ body{
    
 }
 .image{
-    background-image: url("https://raw.githubusercontent.com/Frgten/Frontend-Mentor-Challenges/main/02.social-links/assets/images/avatar-jessica.jpeg");
+   background-image: url("https://raw.githubusercontent.com/Frgten/Frontend-Mentor-Challenges/main/02.social-links/assets/images/avatar-jessica.jpeg");
     width: 100px;
     height:100px;
     background-size: cover;
